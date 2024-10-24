@@ -228,6 +228,7 @@ def main():
     x, y = 0, 0
 
 
+
     n = int(input("Введите N: "))
 
 
